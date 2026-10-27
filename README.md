@@ -86,3 +86,11 @@ Saving percentage is calculated as total cost saving divided by total baseline, 
 
 The dashboard and initial KPI reconciliation are complete.
 Supporting files and documentation are being added to this repository.
+
+## Dashboard Preview
+
+### Executive Overview
+![Procurement Spend Analysis Dashboard](images/executive_overview.png)
+
+### Data Model
+![Power BI Data Model](images/data_model.png)
