@@ -1,0 +1,1 @@
+This folder contains synthetic procurement datasets used for the Procurement Spend Analysis portfolio project. All data is simulated for educational and demonstration purposes and does not represent actual company transactions.
