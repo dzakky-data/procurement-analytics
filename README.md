@@ -82,6 +82,17 @@ All five KPI results matched at the precision displayed in the dashboard.
 Total purchase orders are calculated using distinct PO IDs.
 Saving percentage is calculated as total cost saving divided by total baseline, rather than an average of row-level percentages.
 
+## Data Cleaning & Validation
+
+A separate Power Query exercise demonstrates data quality assessment and correction using intentionally corrupted synthetic procurement data.
+
+The workflow covers duplicate removal, missing VendorID and POAmount recovery, numeric type and locale correction, incorrect transaction amount detection, and SQL-based validation.
+
+**Validation result:** All 1,178 final POAmount values matched the SQL Server reference to two decimal places.
+
+[View Data Cleaning Documentation & Before/After Evidence](docs/02_data_cleaning.md)
+
+Note: This cleaning exercise is separate from the published Power BI dashboard. Additional quality checks are documented as open items.
 ## Project Status
 
 The dashboard and initial KPI reconciliation are complete.
