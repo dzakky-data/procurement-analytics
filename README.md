@@ -95,8 +95,13 @@ The workflow covers duplicate removal, missing VendorID and POAmount recovery, n
 Note: This cleaning exercise is separate from the published Power BI dashboard. Additional quality checks are documented as open items.
 ## Project Status
 
-The dashboard and initial KPI reconciliation are complete.
-Supporting files and documentation are being added to this repository.
+## Project Status
+
+**Status: Portfolio Ready — Version 1.0**
+
+The Procurement Spend Analysis dashboard, SQL KPI validation, synthetic datasets, and project documentation are complete and available for portfolio review.
+
+A separate Power Query data-cleaning case study includes before-and-after evidence, data recovery, and transaction-level SQL validation. Additional data quality checks remain documented as future improvements.
 
 ## Dashboard Preview
 
