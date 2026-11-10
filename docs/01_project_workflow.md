@@ -32,7 +32,7 @@ The master Excel dataset contains 15 worksheets, including procurement transacti
 
 The project uses a synthetic procurement dataset stored in Excel. Power Query is part of the data preparation workflow.
 
-Detailed transformation steps will be documented separately.
+A separate, completed [Data Cleaning & Validation case study](02_data_cleaning.md) documents before-and-after screenshots for duplicate removal, missing-value recovery, numeric type and locale correction, and SQL-based transaction-level POAmount reconciliation. This controlled exercise uses intentionally corrupted synthetic data and is separate from the published Power BI dashboard dataset.
 
 **Step 2 — SQL Analysis**
 
