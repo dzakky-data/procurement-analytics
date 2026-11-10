@@ -93,7 +93,6 @@ The workflow covers duplicate removal, missing VendorID and POAmount recovery, n
 [View Data Cleaning Documentation & Before/After Evidence](docs/02_data_cleaning.md)
 
 Note: This cleaning exercise is separate from the published Power BI dashboard. Additional quality checks are documented as open items.
-## Project Status
 
 ## Project Status
 
